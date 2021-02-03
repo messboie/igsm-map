@@ -865,19 +865,6 @@
         {
          "firstgid":321,
          "source":"igsm.tsx"
-        }, 
-        {
-         "columns":16,
-         "firstgid":322,
-         "image":"..\/world-map-starterkit\/tiles_png\/community\/cert\/imgs\/tilesheets\/AceSet-Hospital.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"AceSet-Hospital",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
